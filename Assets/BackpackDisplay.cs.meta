@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 4026fc79fa7287d4889e145eaae0c848
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - mainCamera: {instanceID: 0}
+  - backpackImage: {instanceID: 0}
+  - backpackSlotPrefab: {fileID: 8413254345901861477, guid: 5eadade8138eacd41abbfb13add5f4ad, type: 3}
+  - slotParent: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
